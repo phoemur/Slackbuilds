@@ -1,0 +1,11 @@
+PRGNAM="vdfuse"
+VERSION="8.2a"
+HOMEPAGE="http://forums.virtualbox.org/viewtopic.php?f=7&t=17574"
+DOWNLOAD="http://download.opensuse.org/repositories/Virtualization:/VirtualBox_backports/openSUSE_Factory/src/vdfuse-8.2a-6.14.src.rpm"
+MD5SUM="4865c4e4b877dda87bad42201051cf84"
+DOWNLOAD_x86_64=""
+MD5SUM_x86_64=""
+REQUIRES="virtualbox"
+MAINTAINER="Fernando Giannasi"
+EMAIL="phoemur@gmail.com"
+

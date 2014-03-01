@@ -1,0 +1,12 @@
+tcptunnel|-----handy-ruler-----------------------------------------------------|
+tcptunnel: tcptunnel 0.7 Simple TCP port forwarder  
+tcptunnel:  
+tcptunnel: Tcptunnel is a simple TCP port forwarder. This tool listens to a 
+tcptunnel: local TCP port and all the received data is sent to a remote host. 
+tcptunnel: It can be used to redirect TCP based protocols like HTTP, IRC, 
+tcptunnel: NNTP, SSH or SMTP.  
+tcptunnel: 
+tcptunnel: 
+tcptunnel: 
+tcptunnel: 
+tcptunnel: http://www.vakuumverpackt.de/tcptunnel/  

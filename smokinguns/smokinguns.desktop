@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Smokin' Guns
+Comment=Open-source first-person shooter game
+Exec=/opt/smokinguns/smokinguns.i386
+Icon=/usr/share/icons/hicolor/48x48/apps/sg_48.png
+Terminal=false
+Type=Application
+Categories=Qt;KDE;Game;
+

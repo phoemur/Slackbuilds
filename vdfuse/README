@@ -1,0 +1,17 @@
+This  Fuse  module  uses the VirtualBox access library to
+open a VirtualBox supported VD image file and mount it as a  Fuse  file
+system.  The mount point contains a flat directory containing the files
+EntireDisk, Partition1 .. PartitionN.  These can then be  loop  mounted
+to access the underlying file systems
+
+USAGE: vdfuse [options] -f image-file mountpoint
+
+Example:
+
+# vdfuse -r -f virtualdisk.vdi /mnt/vdi
+
+Then there will be some files. ex.: /mnt/vdi/EntireDisk and /mnt/vdi/Partition1 ...N
+Loop mount the partition you want, ex.:
+# mount -o loop /mnt/vdi/Partition1 /mnt/mountpoint
+
+And your image will be mounted in /mnt/mountpoint

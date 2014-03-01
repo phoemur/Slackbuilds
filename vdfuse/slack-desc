@@ -1,0 +1,12 @@
+vdfuse|-----handy-ruler--------------------------------------------------------|
+vdfuse: vdfuse 8.2a This program presents a virtual disk as a FUSE  
+vdfuse:  
+vdfuse: This Fuse module uses the VirtualBox access library to open a 
+vdfuse: VirtualBox supported VD image file and mount it as a Fuse file system. 
+vdfuse: The mount point contains a flat directory containing the files 
+vdfuse: EntireDisk, Partition1 .. PartitionN. These can then be loop mounted 
+vdfuse: to access the underlying file systems  
+vdfuse: 
+vdfuse: 
+vdfuse: 
+vdfuse:  http://forums.virtualbox.org/viewtopic.php?f=7&t=17574  

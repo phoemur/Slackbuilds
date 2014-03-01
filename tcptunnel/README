@@ -1,0 +1,16 @@
+Tcptunnel is a simple TCP port forwarder. This tool listens to a local TCP port and all the received data is sent to a remote host. 
+It can be used to redirect TCP based protocols like HTTP, IRC, NNTP, SSH or SMTP. 
+
+Usage: tcptunnel [options]
+
+Options:
+  --version
+  --help
+
+  --local-port=PORT    port to redirect
+  --remote-port=PORT   target port
+  --remote-host=HOST   target host
+  --bind-address=IP    bind IP address
+  --fork               fork-based concurrency
+  --log-to-stdout
+  --stay-alive

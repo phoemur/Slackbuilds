@@ -1,0 +1,12 @@
+nbtscan|-----handy-ruler-------------------------------------------------------|
+nbtscan: nbtscan 1.0.35 Scanner for open NETBIOS nameservers  
+nbtscan:  
+nbtscan: This is a command-line tool that scans for open NETBIOS nameservers 
+nbtscan: on a local or remote TCP/IP network, and this is a first step in 
+nbtscan: finding of open shares. It is based on the functionality of the 
+nbtscan: standard Windows tool nbtstat, but it operates on a range of 
+nbtscan: addresses instead of just one  
+nbtscan: 
+nbtscan: 
+nbtscan: 
+nbtscan: http://www.unixwiz.net/tools/nbtscan.html  

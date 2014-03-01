@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Dopewars
+Comment=Dopewars - A drug dealer game
+Exec=/usr/bin/dopewars
+Icon=/usr/share/icons/hicolor/48x48/apps/dopewars-pill.png
+Terminal=false
+Type=Application
+Categories=Qt;KDE;Game;
