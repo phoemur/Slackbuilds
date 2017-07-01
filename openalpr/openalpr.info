@@ -1,0 +1,11 @@
+PRGNAM="openalpr"
+VERSION="2.3.0"
+HOMEPAGE="http://www.openalpr.com/"
+DOWNLOAD="https://github.com/openalpr/openalpr/archive/v2.3.0.zip"
+MD5SUM="ced950a2429b5a0ef32ec1ded02fcc0a"
+DOWNLOAD_x86_64=""
+MD5SUM_x86_64=""
+REQUIRES=""
+MAINTAINER="Fernando Giannasi"
+EMAIL="phoemur@gmail.com"
+

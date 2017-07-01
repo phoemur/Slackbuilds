@@ -1,0 +1,12 @@
+openalpr|-----handy-ruler-----------------------------------------------------------|
+openalpr: Automatic License Plate Recognition library  
+openalpr:  
+openalpr: OpenALPR is an open source Automatic License Plate Recognition library
+openalpr: written in C++ with bindings in C#, Java, Node.js, Go, and Python. 
+openalpr: The library analyzes images and video streams to identify license plates. 
+openalpr: The output is the text representation of any license plate characters.      
+openalpr: 
+openalpr: 
+openalpr: 
+openalpr: 
+openalpr: http://www.openalpr.com/
